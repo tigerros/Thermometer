@@ -17,7 +17,7 @@ bool wasButtonPressed = false;
 
 void turnOffLEDs();
 // Adjusts all the LEDs depending on the analog out temperature.
-// The first LEDs will be turned on if the celsius is higher than MIN_CELSIUS
+// The first LEDs will be turned on if the Celsius is higher than MIN_CELSIUS
 void adjustLEDs(int temperatureAnalog);
 
 void setup() {
