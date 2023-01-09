@@ -1,0 +1,3 @@
+CMakeListsPrivate.txt
+cmake-build-*/ 
+.idea
